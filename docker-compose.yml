@@ -1,0 +1,12 @@
+version: '3'
+services:
+  opencv:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: PythonOcrPrj
+    volumes:
+      - ./app:/usr/src/app
+    ports:
+      - "9999:9999"
+    stdin_open: true

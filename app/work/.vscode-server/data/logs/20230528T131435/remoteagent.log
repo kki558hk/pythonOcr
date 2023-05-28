@@ -1,0 +1,38 @@
+2023-05-28 13:14:35.952 [info] 
+
+
+
+
+2023-05-28 13:14:35.953 [info] Installing extensions...
+2023-05-28 13:14:35.953 [info] Extension host agent started.
+2023-05-28 13:14:35.972 [debug] No uninstalled extensions found.
+2023-05-28 13:14:35.984 [info] [127.0.0.1][ef77bb59][ManagementConnection] New connection established.
+2023-05-28 13:14:36.006 [info] Started initializing default profile extensions in extensions installation folder. file:///home/jovyan/.vscode-server/extensions
+2023-05-28 13:14:36.028 [info] Log level changed to info
+2023-05-28 13:14:36.274 [info] Installing extensions...
+2023-05-28 13:14:36.278 [info] [127.0.0.1][1f901d18][ExtensionHostConnection] New connection established.
+2023-05-28 13:14:36.434 [info] [127.0.0.1][1f901d18][ExtensionHostConnection] <388> Launched Extension Host Process.
+2023-05-28 13:14:36.621 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/jovyan/.vscode-server/extensions
+2023-05-28 13:14:37.201 [info] Installing extension 'ms-ceintl.vscode-language-pack-ja'...
+2023-05-28 13:14:37.271 [info] Installing extension 'ms-ceintl.vscode-language-pack-ja'...
+2023-05-28 13:14:37.628 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-05-28 13:14:37.668 [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+2023-05-28 13:14:37.765 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-05-28 13:14:37.810 [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-ja
+2023-05-28 13:14:39.894 [info] Extension signature is verified: ms-ceintl.vscode-language-pack-ja
+2023-05-28 13:14:40.760 [info] Extracted extension to /home/jovyan/.vscode-server/extensions/.257f4233-4b9e-4ef8-8b6f-15ec26425ee2: ms-ceintl.vscode-language-pack-ja
+2023-05-28 13:14:40.773 [info] Renamed to /home/jovyan/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.77.2023041209
+2023-05-28 13:14:40.783 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ja
+2023-05-28 13:14:40.796 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2023-05-28 13:14:40.798 [info] Extension 'ms-ceintl.vscode-language-pack-ja' v1.77.2023041209 was successfully installed.
+2023-05-28 13:14:40.875 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
+2023-05-28 13:14:40.877 [info] Extension 'ms-ceintl.vscode-language-pack-ja' v1.77.2023041209 was successfully installed.
+2023-05-28 13:15:44.124 [info] [127.0.0.1][ef77bb59][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-28 13:15:44.180 [info] [127.0.0.1][1f901d18][ExtensionHostConnection] <388> Extension Host Process exited with code: 0, signal: null.
+2023-05-28 13:15:47.089 [info] [127.0.0.1][11c60331][ManagementConnection] New connection established.
+2023-05-28 13:15:47.398 [info] [127.0.0.1][76d75643][ExtensionHostConnection] New connection established.
+2023-05-28 13:15:47.432 [info] [127.0.0.1][76d75643][ExtensionHostConnection] <1333> Launched Extension Host Process.
+2023-05-28 13:19:30.868 [info] [127.0.0.1][11c60331][ManagementConnection] The client has reconnected.
+2023-05-28 13:19:31.091 [info] [127.0.0.1][76d75643][ExtensionHostConnection] The client has reconnected.
+2023-05-28 13:19:43.218 [info] [127.0.0.1][11c60331][ManagementConnection] The client has reconnected.
+2023-05-28 13:19:43.444 [info] [127.0.0.1][76d75643][ExtensionHostConnection] The client has reconnected.
